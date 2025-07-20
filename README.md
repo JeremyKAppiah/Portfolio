@@ -1,13 +1,57 @@
-# React + Vite
+# Jeremy Appiah Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website!  
+Showcasing my skills, projects, and experience in software development and cybersecurity.
 
-Currently, two official plugins are available:
+## 🚀 Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This portfolio highlights my journey as a passionate developer and cybersecurity enthusiast.  
+Explore my background, featured projects, and ways to connect with me.
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Portfolio
+- Responsive design for all devices
+- About section with skills and experience
+- Projects showcase
+- Contact form
+- Downloadable resume
+
+## 🛠️ Tech Stack
+
+- React
+- Tailwind CSS
+- Lucide Icons
+- JavaScript
+
+## 📦 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/appiahportfolio.git
+   cd appiahportfolio
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm start
+   ```
+
+4. **Access the site:**
+   Open [http://localhost:3000](http://localhost:3000) in your browser.
+
+## 📄 Resume
+
+You can download my resume directly from the [About](#about) section.
+
+## 📬 Contact
+
+Feel free to reach out via the contact form or connect with me on [LinkedIn](https://www.linkedin.com/in/jeremyappiah).
+
+---
+
+**Made with ❤️ by Jeremy Appiah**
