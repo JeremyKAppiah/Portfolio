@@ -1,5 +1,5 @@
 import { ArrowDown } from "lucide-react";
-import profilePic from "../assets/IMG_0961.JPG"; // Adjust the path as necessary
+import profilePic from "/public/IMG_0961.JPG"; // Adjust the path as necessary
 
 export const HeroSection = () => {
   return (

@@ -6,7 +6,7 @@ const projects = [
     id: 1,
     title: "Recipe Finding Web App",
     description: "A recipe finding web application that helps users discover new recipes based on their preferences.",
-    image: "/src/assets/BoneAppleTeeth.png",
+    image: "/public/BoneAppleTeeth.png",
     tags: ["React", "CSS", "RapidAPI", "HTML"],
     githubUrl: "https://github.com/WVU-CS230-2024-01-Group08/bone_apple_teeth?tab=readme-ov-file",
   },
@@ -15,7 +15,7 @@ const projects = [
     title: "Design of a Simple CPU",
     description:
       "Designed and implemented an 8-bit CPU with 32 bytes of RAM and three opcodes on the Intel DE10-Lite FPGA using VHDL.",
-    image: "/src/assets/quartus.jpg",
+    image: "/public/quartus.jpg",
     tags: ["VHDL", "Quartus Prime", "FPGA(Intel DE10-Lite)"],
   },
   {
@@ -23,7 +23,7 @@ const projects = [
     title: "Website Portfolio",
     description:
       "A personal portfolio website showcasing my projects and skills. (You are currently viewing it!)",
-    image: "/src/assets/Portfolio.png",
+    image: "/public/portfolio.png",
     tags: ["React", "Node.js", "Tailwind CSS", "Lucide", "Vite"],
     githubUrl: "https://github.com/JeremyKAppiah/Portfolio",
   },
