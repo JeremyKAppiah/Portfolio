@@ -1,5 +1,5 @@
 import { ArrowDown } from "lucide-react";
-import profilePic from "/public/IMG_0961.JPG"; // Adjust the path as necessary
+import profilePic from "/image (8).jpg"; // Adjust the path as necessary
 
 export const HeroSection = () => {
   return (
@@ -9,11 +9,13 @@ export const HeroSection = () => {
     >
       <div className="container max-w-4xl mx-auto text-center z-10">
         <div className="space-y-6">
-          <img
-            src={profilePic}
-            alt="Jeremy Appiah"
-            className="mx-auto w-64 h-64 object-cover mb-6 shadow-xl transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-2xl rounded-lg border-4 border-primary"
-          />
+          <div className="mx-auto w-80 h-80 mb-6 shadow-xl transition-transform duration-300 ease-in-out hover:scale-105 hover:shadow-2xl rounded-lg border-4 border-primary overflow-hidden">
+            <img
+              src={profilePic}
+              alt="Jeremy Appiah"
+              className="w-full h-full object-cover object-top"
+            />
+          </div>
 
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
             <span className="opacity-0 animate-fade-in"> How's it going? My name is</span>

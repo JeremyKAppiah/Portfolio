@@ -21,12 +21,13 @@ const projects = [
 	},
 	{
 		id: 3,
-		title: "Website Portfolio",
+		title: "Interactive Tic-Tac-Toe Game",
 		description:
-			"A personal portfolio website showcasing my projects and skills. (You are currently viewing it!)",
-		image: "/Portfolio.png",
-		tags: ["React", "Node.js", "Tailwind CSS", "Lucide", "Vite"],
-		githubUrl: "https://github.com/JeremyKAppiah/Portfolio",
+			"A fun and interactive Tic-Tac-Toe game built with React. Play against a friend or challenge the computer!",
+		image: "/ttt.png",
+		tags: ["React", "Node.js", "React-Icons", "Vite", "JavaScript"],
+		demoUrl: "https://jeremy-appiah-tictactoe.vercel.app/",
+		githubUrl: "https://github.com/JeremyKAppiah/Tic-Tac-Toe-Game",
 	},
 ];
 
