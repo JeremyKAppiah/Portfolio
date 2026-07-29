@@ -16,7 +16,7 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              Rising 5th-year Computer Science & Cybersecurity undergraduate at West Virginia University, minoring in General Business. Skilled in Java (4+ years using Eclipse), C, C#, HTML, CSS, JavaScript, 
+              Computer Science & Cybersecurity graduate from West Virginia University, minoring in General Business. Skilled in Java (4+ years using Eclipse), C, C#, HTML, CSS, JavaScript, 
 					React, and Node.js. Experienced with Linux systems, encryption/decryption, and both Mac and Windows OS.
             </p>
 
@@ -32,8 +32,8 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="/src/assets/JeremyAppiahResume.pdf"
-                download="JeremyAppiahResume.pdf"
+                href="Appiah Resume 7_16.pdf"
+                download="Jeremy_Appiah_Resume.pdf"
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300 flex items-center gap-2"
               >
                 <Download className="h-5 w-5" />
